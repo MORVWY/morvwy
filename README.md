@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 <h1 align="center">👋 Hi, I'm Viacheslav | MORVWY</h1>
-<h3 align="center">Novice web developer from Ukraine.</h3>
+<h3 align="center">Novice web developer from Ukraine. <a href='#' rel='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png?20100406171642' width='25' height='25' alt='ukraine'></a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morvwy&label=Profile%20views&color=0e75b6&style=flat" alt="morvwy" /> </p>
 
