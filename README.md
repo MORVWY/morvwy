@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morvwy&label=Profile%20views&color=0e75b6&style=flat" alt="morvwy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morvwy" alt="morvwy" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
